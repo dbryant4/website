@@ -84,7 +84,7 @@ In addition to coding, architecting, and documenting solutions, I also work as t
  - Provided 24/7 on call support
   
 ## Certifications
-- Certified ScrumMaster
+- Certified Scrum Master
     - Scrum Alliance   License 000311997    March 2014 to March 2016
 - Private Pilot Certificate
     - Federal Aviation Administration - FAA       October 2010
