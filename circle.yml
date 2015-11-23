@@ -1,0 +1,19 @@
+machine:
+  python:
+    version: 2.7
+
+dependencies:
+  override:
+    - pip install markdown html-linter awscli
+
+test:
+  post:
+    - python -m markdown *.md > /dev/null
+    - html_lint.py index.html --disable=optional_tag
+
+deployment:
+  aws:
+  branch: master
+    commands:
+      - aws s3 sync . s3://$AWS_BUCKET/ --delete --exclude ".git*" --exclude "circle.yml" --region us-east-1 --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
+      - aws s3
