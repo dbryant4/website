@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Derrick Bryant</title>
 
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -18,75 +18,69 @@
   </head>
   <body>
   <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#">
-            Derrick Bryant
-          </a>
-        </div>
-      </div>
-    </nav>
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-offset-3 col-sm-6">
-          <div class="well">
-            <div class="row">
-              <div class="col-sm-2">
-                <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/260/06f/30a0e7e.jpg" class="img-responsive img-rounded center-block" alt="Responsive image">
-              </div>
-              <div class="col-sm-10">
-                A "DevOps Engineer" who loves automating thoughtless tasks so that time can be spent doing other important things. I write tests for everything I do and love watching my work execute in a Vagrant VM before going to production. I'm always learning and love attending conferences so that I can learn from others. Never stop learning and improving!
-              </div>
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">
+          Derrick Bryant
+        </a>
+      </div>
+    </div>
+  </nav>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-offset-3 col-sm-6">
+        <div class="well">
+          <div class="row">
+            <div class="col-sm-2">
+              <img src="//media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/260/06f/30a0e7e.jpg" class="img-responsive img-rounded center-block" alt="Responsive image">
             </div>
-            <div class="row">
-              <div class="col-sm-12">
-                <hr>
-              </div>
+            <div class="col-sm-10">
+              A "DevOps Engineer" who loves automating thoughtless tasks so that time can be spent doing other important things. I write tests for everything I do and love watching my work execute in a Vagrant VM before going to production. I'm always learning and love attending conferences so that I can learn from others. Never stop learning and improving!
             </div>
-            <div class="row">
-              <div class="col-sm-offset-0 col-sm-12 col-lg-offset-3 col-lg-6">
-                <a class="btn btn-primary btn-lg btn-block" href="http://www.linkedin.com/pub/derrick-bryant/8/354/741">
-                  See my Linkedin Profile
-                </a>
-              </div>
-            </div>
-
-            <div class="row">
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
               <hr>
             </div>
-            <div class="row">
-              <div class="col-sm-offset-0 col-sm-12 col-lg-offset-3 col-lg-6">
-                <a class="btn btn-lg btn-block" href="http://github.com/dbryant4">
-                  GitHub Profile
-                </a>
-              </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-offset-0 col-sm-12 col-lg-offset-3 col-lg-6">
+              <a class="btn btn-primary btn-lg btn-block" href="//www.linkedin.com/pub/derrick-bryant/8/354/741">
+                See my Linkedin Profile
+              </a>
             </div>
-            <div class="row">
-              <div class="col-sm-offset-0 col-sm-12 col-lg-offset-3 col-lg-6">
-                <a class="btn btn-lg btn-block" role="button" data-toggle="collapse" href="#collapseResume" aria-expanded="false" aria-controls="collapseResume" >
-                  Resume
-                </a>
-              </div>
+          </div>
+
+          <div class="row">
+            <hr>
+          </div>
+          <div class="row">
+            <div class="col-sm-offset-0 col-sm-12 col-lg-offset-3 col-lg-6">
+              <a class="btn btn-lg btn-block" href="//github.com/dbryant4">
+                GitHub Profile
+              </a>
             </div>
-            <div class="panel panel-default collapse" id="collapseResume">
-              <div class="panel-body resume">
-              </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-offset-0 col-sm-12 col-lg-offset-3 col-lg-6">
+              <a class="btn btn-lg btn-block" role="button" data-toggle="collapse" href="#collapse-resume" aria-expanded="false" aria-controls="collapse-resume">
+                Resume
+              </a>
+            </div>
+          </div>
+          <div class="panel panel-default collapse" id="collapse-resume">
+            <div class="panel-body resume">
             </div>
           </div>
         </div>
       </div>
     </div>
+  </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.js"></script>
+    <script src="site.js"></script>
 
-    <script>
-      $(document).ready(function() {
-        $.get("resume.md", function(data){
-          $("div.resume").html(marked(data));
-        });
-      });
-    </script>
   </body>
 </html>
