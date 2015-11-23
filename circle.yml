@@ -15,4 +15,4 @@ deployment:
   aws:
     branch: master
     commands:
-      - aws s3 sync . s3://$AWS_BUCKET/ --delete --exclude ".git*" --exclude "circle.yml" --region us-east-1 --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
+      - aws s3 sync . s3://$AWS_BUCKET/ --delete --exclude "venv" --exclude ".git*" --exclude "circle.yml" --region us-east-1 --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
