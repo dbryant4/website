@@ -1,11 +1,12 @@
 # Derrick Bryant
-- DevOps Engineer at Millennial Media
+- DevOps Tools Engineer
 - dbryant4@gmail.com
-- github.com/dbryant4
+- [github.com/dbryant4](https://github.com/dbryant4)
+- [dbryant.xyz](http://dbryant.xyz)
 
 ## Summary
 
-A "DevOps Engineer" who loves making tools to automate thoughtless tasks so that time can be spent doing other important things. I write tests for everything I do and love watching my work execute in a Vagrant VM before going to production. I'm always learning and love attending conferences so that I can learn from others. **Never stop learning and improving!**
+A **DevOps Tools Engineer** who loves making tools to automate thoughtless tasks so that time can be spent doing other important things. I write tests for everything I do and love watching my work execute in a Vagrant VM or Docker container before going to production. I'm always learning and love attending conferences and meetups so that I can learn from others. **Never stop learning and improving!**
 
 ## Education
  - University of Tennessee-Knoxville
@@ -13,7 +14,7 @@ A "DevOps Engineer" who loves making tools to automate thoughtless tasks so that
 
 ## Experience
 
-### DevOps Tools Engineer at Millennial Media, October 2013  -  September 2015
+### DevOps Tools Engineer at Millennial Media (October 2013  -  September 2015)
 
 I work with my team to automate the pipeline between developer and production (aka automate testing and deployment of new code). We create tools that others use to aid with making configuration changes and to automate deployment of new code. We employ tools such as Ansible and Puppet to achieve our team goals as well as Ruby, Python, and Django along with various packages to create web based tools.
 
@@ -23,7 +24,7 @@ We try to embrace the DevOps culture by showing empathy for our co-workers.
 
 In addition to coding, architecting, and documenting solutions, I also work as the **scrum master** to organize the team and to ensure that we are working on tasks which will bring the most value to the organization. I also hold the team's feet to the fire by encouraging documentation and testing standards.
 
-### Contractor to Library of Congress at CACI International Inc, May 2012  -  October 2013
+### Contractor to Library of Congress at CACI International Inc (May 2012  -  October 2013)
 
 - Work with teammates to manage day-to-day operations of development environment used to create software to manage the Library's massive collection of digital content
 - Use Chef cookbooks to manage Linux infrastructure consisting of Ubuntu and Red Hat distributions.
@@ -34,7 +35,7 @@ In addition to coding, architecting, and documenting solutions, I also work as t
 - Work with teammates to solve any technical issues and create team policies to ensure compliance with government regulations and best practices
 - Use git as version control system
 
-### Systems Administrator at Driven, Inc, August 2011  -  April 2012
+### Systems Administrator at Driven, Inc (August 2011  -  April 2012)
 
 - Aided with junior team member development by mentoring and directing
 - Assisted with management of all company computing resources both Windows and Linux. Examples below.
@@ -51,7 +52,7 @@ In addition to coding, architecting, and documenting solutions, I also work as t
 - Created encrypted VPN link between the main office and the data center
 - Creating documentation of server setup within company wiki
 
-### Systems Engineer at Cooper Notification, April 2009  -  August 2011
+### Systems Engineer at Cooper Notification (April 2009  -  August 2011)
 
 - Managed and maintained life saving emergency mass notification systems
 - Provided day to day technical support for customers such as SSL certificate management, data imports, IP changes, customer network troubleshooting, etc.
@@ -66,7 +67,7 @@ In addition to coding, architecting, and documenting solutions, I also work as t
 - Member of the team tasked by the CTO to create a proof of concept of an integrated notification system using all Cooper Notification products utilizing Ubuntu 10.04, CentOS 5, and RHEL 5
 - Traveled to various customer locations for deployments, upgrades, and support
 
-### Systems Administrator at Symplicity Corporation, February 2008  -  March 2009
+### Systems Administrator at Symplicity Corporation (February 2008  -  March 2009)
 
  - Administered highly available CentOS 5 (Red Hat 5 clone) based distributed Linux cluster containing 115 servers housed in a remote data center
  - Managed SAN and cluster file system - Installed and managed several MySQL database servers
