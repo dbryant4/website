@@ -15,4 +15,11 @@ deployment:
   aws:
     branch: master
     commands:
-      - aws s3 sync . s3://$AWS_BUCKET/ --delete --exclude "venv/*" --exclude ".git*" --exclude "circle.yml" --region us-east-1 --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
+      - wget https://github.com/jgm/pandoc/releases/download/1.15.2/pandoc-1.15.2-1-amd64.deb -O pandoc.deb
+      - dpkg -i pandoc.deb
+      - apt-get install python-dev python-pip python-lxml libcairo2 libpango1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
+      - pip install WeasyPrint
+      - pandoc resume.md -f markdown -t html -s -o resume.html
+      - weasyprint resume.html resume.pdf
+      - pandoc resume.md -f markdown -t docx -s -o resume.docx
+      - aws s3 sync . s3://$AWS_BUCKET/ --delete --exclude "pandoc.deb" --exclude "venv/*" --exclude ".git*" --exclude "circle.yml" --region us-east-1 --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers

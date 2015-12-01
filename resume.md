@@ -9,7 +9,7 @@ A "DevOps Engineer" who loves making tools to automate thoughtless tasks so that
 
 ## Education
  - University of Tennessee-Knoxville
-     - Bachelor’s Degree, Computer Science, 2003 - 2007
+     - Bachelor's Degree, Computer Science, 2003 - 2007
 
 ## Experience
 
