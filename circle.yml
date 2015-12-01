@@ -16,8 +16,8 @@ deployment:
     branch: master
     commands:
       - wget https://github.com/jgm/pandoc/releases/download/1.15.2/pandoc-1.15.2-1-amd64.deb -O pandoc.deb
-      - dpkg -i pandoc.deb
-      - apt-get install python-dev python-pip python-lxml libcairo2 libpango1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
+      - sudo dpkg -i pandoc.deb
+      - sudo apt-get install python-dev python-pip python-lxml libcairo2 libpango1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
       - pip install WeasyPrint
       - pandoc resume.md -f markdown -t html -s -o resume.html
       - weasyprint resume.html resume.pdf
