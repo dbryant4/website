@@ -1,7 +1,7 @@
 # Derrick Bryant
 - DevOps Tools Engineer
 - dbryant4@gmail.com
-- github.com/dbryant4
+- [github.com/dbryant4](https://github.com/dbryant4)
 - [dbryant.xyz](http://dbryant.xyz)
 
 ## Summary
