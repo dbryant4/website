@@ -14,9 +14,6 @@ A **DevOps Tools Engineer** who loves making tools to automate thoughtless tasks
 
 ## Experience
 
-
-#### Senior DevOps Engineer at Rally Health, San Francisco (September 2015 - November 2015)
-
 #### DevOps Tools Engineer at Millennial Media (October 2013  -  September 2015)
 
 I work with my team to automate the pipeline between developer and production (aka automate testing and deployment of new code). We create tools that others use to aid with making configuration changes and to automate deployment of new code. We employ tools such as Ansible and Puppet to achieve our team goals as well as Ruby, Python, and Django along with various packages to create web based tools.
