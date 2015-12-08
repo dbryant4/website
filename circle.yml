@@ -15,6 +15,7 @@ deployment:
   aws:
     branch: master
     commands:
+      - pip install -r requirements.txt
       - wget https://github.com/jgm/pandoc/releases/download/1.15.2/pandoc-1.15.2-1-amd64.deb -O pandoc.deb
       - sudo dpkg -i pandoc.deb
       - sudo apt-get install texlive-xetex
@@ -23,4 +24,5 @@ deployment:
       - pandoc resume.md -f markdown -t html -s -o - | weasyprint - resume.pdf
       # - pandoc resume.md -f markdown --latex-engine=xelatex -s -o resume.pdf
       - pandoc resume.md -f markdown -t docx -s -o resume.docx
-      - aws s3 sync . s3://$AWS_BUCKET/ --delete --exclude "pandoc.deb" --exclude "venv/*" --exclude ".git*" --exclude "circle.yml" --region us-east-1 --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
+      - python build_index.py
+      - aws s3 sync . s3://$AWS_BUCKET/ --delete --exclude "index.html.j2" --exclude "pandoc.deb" --exclude "venv/*" --exclude ".git*" --exclude "circle.yml" --region us-east-1 --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
