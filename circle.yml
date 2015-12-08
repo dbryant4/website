@@ -9,7 +9,7 @@ dependencies:
 test:
   post:
     - python -m markdown *.md > /dev/null
-    - html_lint.py index.html --disable=optional_tag,protocol
+    - html_lint.py index.html.j2 --disable=optional_tag,protocol
 
 deployment:
   aws:
