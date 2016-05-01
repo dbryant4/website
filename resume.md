@@ -6,7 +6,7 @@
 
 ## Summary
 
-A **DevOps Tools Engineer** who loves making tools to automate thoughtless tasks so that time can be spent doing other important things. I write tests for everything I do and love watching my work execute in a Vagrant VM or Docker container before going to production. I'm always learning and love attending conferences and meetups so that I can learn from others. **Never stop learning and improving!**
+An Engineer who loves automating thoughtless tasks so that time can be spent doing other important things. I write tests for everything I do and cannot consider a task complete until all tests pass. I'm always learning and love attending conferences so that I can learn from others. **Never stop learning and improving!**
 
 ## Education
  - University of Tennessee-Knoxville
@@ -14,15 +14,40 @@ A **DevOps Tools Engineer** who loves making tools to automate thoughtless tasks
 
 ## Experience
 
-#### DevOps Tools Engineer at Millennial Media (October 2013  -  September 2015)
+#### Automation Engineer at Datometry, Inc (January 2016 - Present)
 
-I work with my team to automate the pipeline between developer and production (aka automate testing and deployment of new code). We create tools that others use to aid with making configuration changes and to automate deployment of new code. We employ tools such as Ansible and Puppet to achieve our team goals as well as Ruby, Python, and Django along with various packages to create web based tools.
+I automate things making them more efficient, repeatable, less expensive, manageable, and simple. Hearing my coworkers make comments such as "the testing framework really opened our eyes" is very rewarding and ultimately leads to a much better product!
 
-We also help to automate various other tasks for our colleagues so that expensive employee time can be spent on solving problems instead of repeating tasks.
+- Building tools to make installation of our product easier for testing, development, and sales.
+- Implementing automated performance testing.
+- Created dashboards displaying metrics and other useful information needed to make good decisions.
+- Made the release pipeline a single push button operation.
+- Created frameworks for managing testing environments making them consistently clean and very fast to create and destroy, removing the friction of creating environments for development and testing.
+- Created an automated testing build chain, allowing for better tests and detection of more bugs.
 
-We try to embrace the DevOps culture by showing empathy for our co-workers.
+Primary tools:
+- Ansible
+- Python
+- Docker
+- AWS
+- Packer
+- TeamCity
 
-In addition to coding, architecting, and documenting solutions, I also work as the **scrum master** to organize the team and to ensure that we are working on tasks which will bring the most value to the organization. I also hold the team's feet to the fire by encouraging documentation and testing standards.
+#### Automation Tools Engineer at Millennial Media (October 2013  -  September 2015)
+
+I worked with my team to automate the pipeline between developer and user (aka automate testing and deployment of new code). We created tools that others use to aid with making configuration changes and to automate deployment of new code. We employed tools such as Ansible and Puppet to achieve our team goals as well as Ruby and Python along with various packages to create web based tools.
+
+We also helped to automate various other tasks for our colleagues so that expensive employee time could be spent on solving problems instead of repeating tasks. We tried to embrace the DevOps culture by showing empathy for our co-workers.
+
+In addition to coding, architecting, and documenting solutions, I also served as the team's scrum master organizing the team to ensure that we were working on tasks which would bring the most value to the organization. I also held the teams feet to the fire by encouraging documentation and testing standards.
+
+Main Tools:
+- Ansible
+- Puppet
+- Django
+- Python
+- Ruby
+- TeamCity
 
 #### Contractor to Library of Congress at CACI International Inc (May 2012  -  October 2013)
 
