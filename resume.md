@@ -1,53 +1,48 @@
 # Derrick Bryant
-- DevOps Tools Engineer
+- Software Engineer
 - dbryant4@gmail.com
 - [github.com/dbryant4](https://github.com/dbryant4)
 - [dbryant.xyz](http://dbryant.xyz)
 
 ## Summary
 
-An Engineer who loves automating thoughtless tasks so that time can be spent doing other important things. I write tests for everything I do and cannot consider a task complete until all tests pass. I'm always learning and love attending conferences so that I can learn from others. **Never stop learning and improving!**
+A Software Engineer who loves creating tools to solve problems. 
 
-## Education
- - University of Tennessee-Knoxville
-     - Bachelor's Degree, Computer Science, 2003 - 2007
+## Tools
+
+-  Certified Scrum Master CSM
+-  Python
+-  Ruby
+-  Django
+-  AngularJS / jQuery
+-  Ansible
+-  Git
+-  Packer
+-  Amazon Web Services (AWS)
+-  Linux
 
 ## Experience
 
-#### Automation Engineer at Datometry, Inc (January 2016 - Present)
+#### Software Engineer - Internal Tools at Datometry, Inc (January 2016 - Present)
 
-I automate things making them more efficient, repeatable, less expensive, manageable, and simple. Hearing my coworkers make comments such as "the testing framework really opened our eyes" is very rewarding and ultimately leads to a much better product!
+Developing tools to solve release, testing, and efficiency problems. My efforts have lead to an increase in released features, increase in confidence in code, and faster release cycles.
 
-- Building tools to make installation of our product easier for testing, development, and sales.
-- Implementing automated performance testing.
-- Created dashboards displaying metrics and other useful information needed to make good decisions.
-- Made the release pipeline a single push button operation.
-- Created frameworks for managing testing environments making them consistently clean and very fast to create and destroy, removing the friction of creating environments for development and testing.
-- Created an automated testing build chain, allowing for better tests and detection of more bugs.
+- Creating dashboards to display important information
+- Developed chat-ops bot to provide instant information from many sources
+- Developed tools to automate the release process saving many hours of developer time
+- Developed tools to automate compilation, unit, integration, smoke, and performance tests
+- Developed tools to remove friction for manual testing of code changes
 
-Primary tools:
-- Ansible
-- Python
-- Docker
-- AWS
-- Packer
-- TeamCity
 
-#### Automation Tools Engineer at Millennial Media (October 2013  -  September 2015)
+#### Software Engineer - Internal Tools at Millennial Media (October 2013  -  September 2015)
 
-I worked with my team to automate the pipeline between developer and user (aka automate testing and deployment of new code). We created tools that others use to aid with making configuration changes and to automate deployment of new code. We employed tools such as Ansible and Puppet to achieve our team goals as well as Ruby and Python along with various packages to create web based tools.
+Developed tools to solve software distribution and management problems. My efforts ultimately lead to increased productivity, higher feature completion, faster release cycles.
 
-We also helped to automate various other tasks for our colleagues so that expensive employee time could be spent on solving problems instead of repeating tasks. We tried to embrace the DevOps culture by showing empathy for our co-workers.
-
-In addition to coding, architecting, and documenting solutions, I also served as the team's scrum master organizing the team to ensure that we were working on tasks which would bring the most value to the organization. I also held the teams feet to the fire by encouraging documentation and testing standards.
-
-Main Tools:
-- Ansible
-- Puppet
-- Django
-- Python
-- Ruby
-- TeamCity
+- Created web based deployment application for push button deployment of new product releases
+- Created web based application to manage server configuration
+- Consulted with teammates to develop a web based git workload analysis tool
+- Created tools to automate tests
+- Served as the team's Scrum Master.
 
 #### Contractor to Library of Congress at CACI International Inc (May 2012  -  October 2013)
 
@@ -109,6 +104,10 @@ Main Tools:
  - Represented Simplicity while communicating with third party vendors
  - Provided 24/7 on call support
 
+## Education
+ - University of Tennessee-Knoxville
+     - Bachelor's Degree, Computer Science, 2003 - 2007
+
 ## Certifications
 - Certified Scrum Master
     - Scrum Alliance   License 000311997    March 2014 to March 2016
@@ -116,40 +115,3 @@ Main Tools:
     - Federal Aviation Administration - FAA       October 2010
 
 
-## Skills & Expertise
-
--  Certified Scrum Master CSM
--  Django
--  Cherrypy
--  AngularJS
--  Jquery
--  Chef Configuration Automation
--  Puppet
--  Ansible
--  DevOps
--  Virtualization
--  Python
--  Ruby
--  Red Hat Linux
--  Github Enterprise
--  Linux Server
--  MySQL
--  Nagios
--  Git
--  Ubuntu
--  VMware
--  Amazon Web Services (AWS)
--  VMware ESX
--  Web Applications
--  Django
--  PHP
--  VoIP
--  Network Engineering
--  Wireless Networking
--  Linux KVM
--  Github
--  Storage
--  RedHat
--  beaker
--  RSpec
--  Linux
