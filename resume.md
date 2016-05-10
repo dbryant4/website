@@ -27,12 +27,12 @@ A Software Engineer who loves creating tools to solve problems.
 
 Developing tools to solve release, testing, and efficiency problems. My efforts have lead to an increase in released features, increase in confidence in code, and faster release cycles.
 
-- Creating dashboards to display important information
-- Developed chat-ops bot to provide instant information from many sources
-- Developed tools to automate the release process saving many hours of developer time
-- Developed tools to automate compilation, unit, integration, smoke, and performance tests
-- Developed tools to remove friction for manual testing of code changes
-
+- Currently creating dashboards to display important information
+- Created
+    - chat-ops bot to provide instant information from many sources
+    - tools to automate the release process saving many hours of developer time
+    - tools to automate compilation, unit, integration, smoke, and performance tests
+    - tools to remove friction for manual testing of code changes
 
 #### Software Engineer - Internal Tools at Millennial Media (October 2013  -  September 2015)
 
