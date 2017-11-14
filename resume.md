@@ -1,39 +1,44 @@
 # Derrick Bryant
-- Software Engineer
+- DevOps/Software Engineer
 - dbryant4@gmail.com
+- [dbryant.xyz](http://www.dbryant.xyz)
 - [github.com/dbryant4](https://github.com/dbryant4)
-- [dbryant.xyz](http://dbryant.xyz)
 
 ## Summary
 
-A Software Engineer who loves creating tools to solve problems. 
-
-## Tools
-
--  Certified Scrum Master CSM
--  Python
--  Ruby
--  Django
--  AngularJS / jQuery
--  Ansible
--  Git
--  Packer
--  Amazon Web Services (AWS)
--  Linux
+An Engineer who loves solving problems through automation. 
 
 ## Experience
 
-#### Software Engineer - Internal Tools at Datometry, Inc (January 2016 - Present)
+#### Software Engineer - Internal Tools/DevOps at Datometry, Inc (January 2016 - Present)
 
-Developing tools to solve release, testing, and efficiency problems. My efforts have lead to an increase in released features, increase in confidence in code, and faster release cycles.
+One of the advantages of working at a small company is the opportunity to work on many things. A broad spectrum of tasks requires the creation of tools that are self-managing, easy to troubleshoot, and well documented. I am also a believer of making life easier by automating as many things as possible.
 
-- Currently creating dashboards to display important information
-- Designed and developed chat-ops bot to provide instant information from many sources
-- Created tools to automate the release process saving many hours of developer time
-- Developed tools to automate compilation, unit, integration, smoke, and performance tests
-- Created utilities to remove friction for manual testing of code changes
+Some of the things I have worked on include:
 
-#### Software Engineer - Internal Tools at Millennial Media (October 2013  -  September 2015)
+- Created one-click deployable, reproducible, scalable, and self-managing cloud based testing environments to ensure our product works as expected
+- Created tools to automate the release process to cloud marketplaces saving many hours of developer time
+- Created a web-based configuration tool for customer use of our cloud marketplace offerings
+- Created components of the company core product
+- Manage creation of a new product including requirements gathering, prototyping, and development
+- Manage continuous integration system
+- Create developer tools to remove friction and increase developer productivity
+
+Some of the tools I use:
+
+- Python and Flask
+- JQuery and Bootstrap
+- AWS and Azure clouds
+- Terraform 
+- Ansible
+- Packer
+- Datadog
+- Bitbucket
+- Docker
+- TeamCity
+
+
+#### Software Engineer - Internal Tools/DevOps at Millennial Media (October 2013  -  September 2015)
 
 Developed tools to solve software distribution and management problems. My efforts ultimately lead to increased productivity, higher feature completion, faster release cycles.
 
@@ -112,5 +117,3 @@ Developed tools to solve software distribution and management problems. My effor
     - Scrum Alliance   License 000311997    March 2014 to March 2016
 - Private Pilot Certificate
     - Federal Aviation Administration - FAA       October 2010
-
-
