@@ -1,5 +1,5 @@
 # Derrick Bryant
-- DevOps/Software Engineer
+- Lead DevOps/Software Engineer
 - dbryant4@gmail.com
 - [dbryant.xyz](http://www.dbryant.xyz)
 - [github.com/dbryant4](https://github.com/dbryant4)
