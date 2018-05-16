@@ -16,6 +16,9 @@ One of the advantages of working at a small company is the opportunity to work o
 
 Some of the things I have worked on include:
 
+- Worked with development teams to implement solutions that I design
+- Architect new self-service web based product to provide an analysis of customer supplied data
+- Manage creation of new products including requirements gathering, prototyping, and development
 - Created one-click deployable, reproducible, scalable, and self-managing cloud based testing environments to ensure our product works as expected
 - Created tools to automate the release process to cloud marketplaces saving many hours of developer time
 - Created a web-based configuration tool for customer use of our cloud marketplace offerings
